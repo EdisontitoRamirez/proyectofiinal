@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&family=Varela+Round&display=swap');
+
+.descripcion_admin p{
+    font-size: 15px;
+    COLOR: black;
+    font-weight: bold   ;
+    font-family: 'Poiret One', cursive;
+
+}
+
+
+#panel_izq a{
+    color: yellow;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+}
+#panel_izq a:hover{
+    background: #bdd0ff7a;
+}
+
+.card{
+    font-family: 'Poiret One', cursive;
+    font-weight: 900;
+    font-size: 25px;
+    border-radius: 40px;
+    color: black;
+    background-color: #BDD0FF !important;
+}
+.card input{
+    font-family: 'Poiret One', cursive;
+    font-weight: 900;
+    color: black;
+    background-color: #BDD0FF !important;
+    border:1px solid black;
+    border-radius: 10px;
+}
+.card select{
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    color: black;
+    background-color: #BDD0FF !important;
+    border:1px solid black;
+    border-radius: 10px;
+}
+
+tbody tr td{
+    font-family: 'Poiret One', cursive;
+    font-weight: bold; 
+}
+
+
